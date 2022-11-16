@@ -1,0 +1,8 @@
+Version 1.0
+i) Initial version release.
+
+Version 1.1
+i) Resolved error from slider caption.
+
+Version 1.2
+i) Theme updated as per latest WordPress standards.
